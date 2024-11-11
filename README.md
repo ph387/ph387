@@ -35,7 +35,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/phzin" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Paulo-Henrique-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-PauloHenrique-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/_.pauliinn" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-_.pauliinn-05122A?style=flat&logo=instagram" alt="instagram"/>
